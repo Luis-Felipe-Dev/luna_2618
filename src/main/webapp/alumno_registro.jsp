@@ -204,10 +204,14 @@ scratch. This page gets rid of all links and provides the needed markup only.
               </p>
             </a>
             <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="#" class="nav-link active">
+              <li class="nav-item">                
+                <a href="/luna_2618/alumno_registro.jsp" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Registro alumno</p>
+                </a>
+                <a href="/luna_2618/admin/clientes/" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Registro cliente</p>
                 </a>
               </li>
               <li class="nav-item">
