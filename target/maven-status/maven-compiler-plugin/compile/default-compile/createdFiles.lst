@@ -1,0 +1,6 @@
+controller\AlumnoController.class
+model\AD_Alumno.class
+model\Alumno.class
+pe\isil\luna_2618\JAXRSConfiguration.class
+pe\isil\luna_2618\resources\JavaEE8Resource.class
+model\ConnectionPool.class
